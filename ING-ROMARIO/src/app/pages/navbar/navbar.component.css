@@ -1,0 +1,86 @@
+body{
+
+  background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.8)),url('https://cdn.pixabay.com/photo/2016/03/26/13/09/workspace-1280538_960_720.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 100vh ;
+
+  width: 100%;
+
+  }
+
+
+.navbar-nav.navbar-center {
+  position: absolute;
+  left: 45%;
+  transform: translatex(-50%);
+  margin-bottom: 6%;
+  list-style-type: none;
+  width: 50%;
+
+}
+.nav-link {
+  font-family: "Alfa Slab One", cursive;
+  font-family: "Anton", sans-serif;
+  font-family: "Fira Sans", sans-serif;
+  font-family: "Righteous", cursive;
+  font-size: 22px;
+}
+.imgRedonda {
+  height: 200px;
+  width: 200px;
+  background-repeat: no-repeat;
+  background-position: 50%;
+  border-radius: 50%;
+  background-size: 100% auto;
+
+  position: absolute;
+  left: 51%;
+  transform: translatex(-50%);
+  margin-bottom: 16%;
+}
+.posicion {
+  background-repeat: no-repeat;
+  background-position: 50%;
+  background-size: 100% auto;
+  position: absolute;
+  left: 51%;
+  transform: translatex(-50%);
+  margin-bottom: 12%;
+}
+hr {
+  height: 2px;
+  background-color: aliceblue;
+  background-repeat: no-repeat;
+  background-position: 50%;
+  background-size: 100% auto;
+  left: 51%;
+  transform: translatex(-50%);
+  margin-bottom: 10%;
+}
+
+.ingRomario {
+  font-family: "Alfa Slab One", cursive;
+  font-family: "Anton", sans-serif;
+  font-family: "Fira Sans", sans-serif;
+  font-family: "Righteous", cursive;
+  font-family: "Zen Kurenaido", sans-serif;
+  font-size: 80px;
+  color: aliceblue;
+}
+.ingRomario2.ingRomario2 {
+  font-family: "Alfa Slab One", cursive;
+  font-family: "Anton", sans-serif;
+  font-family: "Fira Sans", sans-serif;
+  font-family: "Righteous", cursive;
+  font-family: "Zen Kurenaido", sans-serif;
+  font-size: 30px;
+  color: aliceblue;
+  text-align: center;
+  width: 80%;
+  margin: auto;
+  line-height: 27pt;
+}
+
+

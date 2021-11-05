@@ -1,0 +1,41 @@
+.card{
+  margin-left: 7%;
+}
+
+
+
+.navbar-nav.navbar-center {
+  position: absolute;
+  left: 45%;
+  transform: translatex(-50%);
+  margin-bottom: 6%;
+  list-style-type: none;
+  width: 50%;
+
+}
+.nav-link {
+  font-family: "Alfa Slab One", cursive;
+  font-family: "Anton", sans-serif;
+  font-family: "Fira Sans", sans-serif;
+  font-family: "Righteous", cursive;
+  font-size: 22px;
+}
+.posicion {
+  background-repeat: no-repeat;
+  background-position: 50%;
+  background-size: 100% auto;
+  position: absolute;
+  left: 51%;
+  transform: translatex(-50%);
+  margin-bottom: 12%;
+}
+hr {
+  height: 2px;
+  background-color: aliceblue;
+  background-repeat: no-repeat;
+  background-position: 50%;
+  background-size: 100% auto;
+  left: 51%;
+  transform: translatex(-50%);
+  margin-bottom: 10%;
+}
